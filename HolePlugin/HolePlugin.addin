@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Guild of Magic\RevitAPITraining\HolePlugin.dll</Assembly>
+		<AddInId>268EF8F1-7C85-4BE8-96FA-F4CEE258C727</AddInId>
+		<FullClassName>HolePlugin.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Расстановка отверстий 1</Text>
+	</AddIn>
+</RevitAddIns>
